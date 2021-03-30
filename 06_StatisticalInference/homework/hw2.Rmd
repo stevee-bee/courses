@@ -167,7 +167,7 @@ round(pbinom(4, prob = .5, size = 6, lower.tail = TRUE) * 100, 1)
 
 --- &multitext
 
-Consider a uniform distribution. If we were to sample 100 draws from a 
+Consider a uniform distribution. If we were to sample 100 draws from 
 a uniform distribution (which has mean 0.5, and variance 1/12) and take their
 mean, $\bar X$
 
